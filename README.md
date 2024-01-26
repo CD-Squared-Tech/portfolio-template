@@ -12,10 +12,11 @@ So, whether you're looking to create a personal portfolio or just want to get yo
 
 1. **Fork the Repository**: Start by forking the repository from GitHub. You can do this by clicking the 'Fork' button at the top right corner of the repository page.
 
-2. **Clone the Repository**: After forking, clone the repository to your local machine. You can do this with the following command:
+2. **Clone the Repository**:  After forking, clone the repository to your local machine. Replace <your-username> and <repository-name> with your GitHub username and the name of the forked repository respectively in the following command:
     ```
-    git clone https://github.com/<your-username>/<PortfolioWebsite>.git
+    git clone https://github.com/<your-username>/<repository-name>.git
     ```
+
 3. **Install Live Server Extension**: To run the project locally, install the Live Server extension in VSCode. Once installed, it appears in the bottom right corner of the VSCode window. Right click your index.html file and open with Live Server. To update the live hosted version of the website, use the source control tab (VSCode) and commit the changes to GitHub so that Netlify can auto-deploy for you. (you must set up continuous deployment).
 
 4. **Generate a QR Code for your Website's URL**: To generate a QR code for your website's URL, use a free online QR code generator such as the [Adobe Express QR code creator](https://www.adobe.com/express/feature/image/qr-code-generator). After generating the QR code, download it and save it in the images directory of the project.
@@ -26,7 +27,7 @@ We recommend deploying the website on Netlify. Follow these steps:
 
 1. **Create a Netlify Account**: If you don't have one, create a new account on Netlify.
 
-2. **Add New Site from GitHub**: Click on the 'Add new site' dropdown, and select 'Import an existing project'.
+2. **Add New Site from GitHub**: Click on the 'Add new site' dropdown and select 'Import an existing project'.
 
 3. **Connect to GitHub**: Choose 'Deploy with GitHub' (assuming you will be using GitHub to deploy your code).
 
