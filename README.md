@@ -17,7 +17,7 @@ So, whether you're looking to create a personal portfolio or just want to get yo
     git clone https://github.com/<your-username>/<repository-name>.git
     ```
 
-3. **Install Live Server Extension**: To run the project locally, install the Live Server extension in VSCode. Once installed, it appears in the bottom right corner of the VSCode window. Right click your index.html file and open with Live Server. To update the live hosted version of the website, use the source control tab (VSCode) and commit the changes to GitHub so that Netlify can auto-deploy for you. (you must set up continuous deployment).
+3. **Install Live Server Extension**: To run the project locally, install the Live Server extension in VSCode. Once installed, it appears in the bottom right corner of the VSCode window. Right click your index.html file and open with Live Server. To update the live hosted version of the website, use the source control tab (VSCode) and commit the changes to GitHub so that Netlify can auto-deploy for you (you must set up continuous deployment).
 
 4. **Generate a QR Code for your Website's URL**: To generate a QR code for your website's URL, use a free online QR code generator such as the [Adobe Express QR code creator](https://www.adobe.com/express/feature/image/qr-code-generator). After generating the QR code, download it and save it in the images directory of the project.
 
