@@ -12,7 +12,7 @@ So, whether you're looking to create a personal portfolio or just want to get yo
 
 1. **Fork the Repository**: Start by forking the repository from GitHub. You can do this by clicking the 'Fork' button at the top right corner of the repository page.
 
-2. **Clone the Repository**:  After forking, clone the repository to your local machine. Replace <your-username> and <repository-name> with your GitHub username and the name of the forked repository respectively in the following command:
+2. **Clone the Repository**:  After forking, clone the repository to your local machine. Replace `<your-username>` and `<repository-name>` with your GitHub username and the name of the forked repository respectively in the following command:
     ```
     git clone https://github.com/<your-username>/<repository-name>.git
     ```
