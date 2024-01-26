@@ -37,7 +37,7 @@ We recommend deploying the website on Netlify. Follow these steps:
 
 ## Updating the Website
 
-To update the live hosted version of the website, use the source control tab (VSCode) and commit the changes to GitHub so that Netlify can auto-deploy for you. (you must set up continuous deployment) We recommend that your projects hosted herein have links to the live hosted projects (Netlify or otherwise).
+To update the live hosted version of the website, use the source control tab (VSCode) and commit the changes to GitHub so that Netlify can auto-deploy for you (you must set up continuous deployment). We recommend that your projects hosted herein have links to the live hosted projects (Netlify or otherwise).
 
 **Pro Tip**: If you make an update and don't see any changes, sometimes you must clear your browsing cookies, data, etc. to avoid reloading outdated file attributes.
 
