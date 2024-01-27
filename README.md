@@ -17,7 +17,7 @@ So, whether you're looking to create a personal portfolio or just want to get yo
     git clone https://github.com/<your-username>/<repository-name>.git
     ```
 
-3. **Install Live Server Extension**: To run the project locally, install the Live Server extension in VSCode. Once installed, it appears in the bottom right corner of the VSCode window. Right click your index.html file and open with Live Server. To update the live hosted version of the website, use the source control tab (VSCode) and commit the changes to GitHub so that Netlify can auto-deploy for you (you must set up continuous deployment).
+3. **Install Live Server Extension**: To run the project locally, install the Live Server extension in VSCode. Once installed, it appears in the bottom right corner of the VSCode window. Right click your index.html file and open with Live Server.
 
 4. **Generate a QR Code for your Website's URL**: To generate a QR code for your website's URL, use a free online QR code generator such as the [Adobe Express QR code creator](https://www.adobe.com/express/feature/image/qr-code-generator). After generating the QR code, download it and save it in the images directory of the project.
 
@@ -37,9 +37,9 @@ We recommend deploying the website on Netlify. Follow these steps:
 
 ## Updating the Website
 
-To update the live hosted version of the website, use the source control tab (VSCode) and commit the changes to GitHub so that Netlify can auto-deploy for you (you must set up continuous deployment). We recommend that your projects hosted herein have links to the live hosted projects (Netlify or otherwise).
+To update the live hosted version of the website, use the source control tab (VSCode) and commit the changes to GitHub. This will allow Netlify to auto-deploy for you, assuming you have set up continuous deployment. We recommend that your projects hosted herein have links to the live hosted projects (Netlify or otherwise).
 
-**Pro Tip**: If you make an update and don't see any changes, sometimes you must clear your browsing cookies, data, etc. to avoid reloading outdated file attributes.
+**Pro Tip**: If you make an update and don't see any changes, sometimes you must clear your browsing cookies, data, etc., to avoid reloading outdated file attributes.
 
 ## Contributing
 
